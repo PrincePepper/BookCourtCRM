@@ -1,3 +1,6 @@
 module.exports = {
-  publicPath: '/project-crm/'
+  publicPath: '/project-crm/',
+  devServer:{
+    disableHostCheck: true
+  }
 }
