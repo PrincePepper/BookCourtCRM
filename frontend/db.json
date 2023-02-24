@@ -1,0 +1,46 @@
+{
+  "books": [
+      {
+      "image": "1.jpg",
+      "name": "Book 1",
+      "author": "Author 1",
+      "id": "12345",
+      "genre": "Fantasy"
+      },
+      {
+      "image": "2.jpg",
+      "name": "Book 2",
+      "author": "Author 2",
+      "id": "12346",
+      "genre": "Fantasy"
+      },
+      {
+      "image": "3.jpg",
+      "name": "Book 3",
+      "author": "Author 3",
+      "id": "12347",
+      "genre": "Fantasy"
+      },
+      {
+      "image": "4.jpg",
+      "name": "Book 4",
+      "author": "Author 4",
+      "id": "12348",
+      "genre": "Novel"
+      },
+      {
+      "image": "5.jpg",
+      "name": "Book 5",
+      "author": "Author 5",
+      "id": "12349",
+      "genre": "Novel"
+      },
+      {
+      "image": "6.jpg",
+      "name": "Book 6",
+      "author": "Author 6",
+      "id": "12350",
+      "genre": "Novel"
+      }
+  ]
+}
